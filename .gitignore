@@ -1,0 +1,20 @@
+# Python venv
+.venv/
+venv/
+env/
+
+# Jupyter notebook specific
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Zip files (original competition zips can be downloaded from Kaggle)
+*.zip
+
+# Jupyter configuration
+.jupyterlab.json
+jupyter-server-termina*.json
